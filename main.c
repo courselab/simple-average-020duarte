@@ -33,7 +33,7 @@ int main()
 
   result =(v1+v2+v3)/3;
 
-  printf("Média = %f", result);
+  printf("MÃ©dia = %.2f", result);
 
   return 0 ;
 }
